@@ -8098,7 +8098,7 @@ GameObject:
   - component: {fileID: 478077383}
   - component: {fileID: 478077382}
   - component: {fileID: 478077381}
-  m_Layer: 21
+  m_Layer: 20
   m_Name: Prop (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8237,8 +8237,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: -44025399
-  m_SortingLayer: 2
+  m_SortingLayerID: -1869315837
+  m_SortingLayer: 1
   m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300034, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
@@ -8647,7 +8647,7 @@ GameObject:
   - component: {fileID: 693277758}
   - component: {fileID: 693277760}
   - component: {fileID: 693277759}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16009,7 +16009,7 @@ GameObject:
   - component: {fileID: 1391242453}
   - component: {fileID: 1391242452}
   - component: {fileID: 1391242451}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18153,7 +18153,7 @@ GameObject:
   - component: {fileID: 1936229902}
   - component: {fileID: 1936229901}
   - component: {fileID: 1936229900}
-  m_Layer: 21
+  m_Layer: 20
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18291,7 +18291,7 @@ GameObject:
   - component: {fileID: 1974861628}
   - component: {fileID: 1974861627}
   - component: {fileID: 1974861626}
-  m_Layer: 21
+  m_Layer: 20
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18649,7 +18649,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2106552202}
   - component: {fileID: 2106552203}
-  m_Layer: 21
+  m_Layer: 20
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19208,7 +19208,7 @@ Transform:
   m_GameObject: {fileID: 3143109246096079895}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.0777411, y: 1.6257521, z: 0}
+  m_LocalPosition: {x: 2.07, y: 7.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -19261,8 +19261,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: -1869315837
-  m_SortingLayer: 1
+  m_SortingLayerID: -44025399
+  m_SortingLayer: 2
   m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300034, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
@@ -19289,7 +19289,7 @@ GameObject:
   - component: {fileID: 3143109246096079899}
   - component: {fileID: 3143109246096079898}
   - component: {fileID: 3143109246096079900}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Prop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19453,7 +19453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3143109246464565627}
   - component: {fileID: 3143109246464565624}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
